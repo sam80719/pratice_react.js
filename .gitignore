@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #key
-/sre/apis/key.js
+/src/apis/key.js
