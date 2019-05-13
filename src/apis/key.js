@@ -1,3 +1,3 @@
-const p_key= 'AIzaSyCBTZ2A1GiIy03hEysTxqdowKcqMsRz3SQ';
+const p_key= 'AIzaSyBz5HtbpOtQthIMZfS203VIrPSEbY9EMFI';
 
 export default p_key;
